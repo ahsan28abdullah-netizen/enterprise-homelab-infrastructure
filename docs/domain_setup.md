@@ -284,7 +284,7 @@ Add screenshots to document setup completion:
 
 | Screenshot | Purpose |
 |-----------|---------|
-| ![Domain Controller Setup](../screenshots/dc_setup.png) | Server Manager showing AD DS role installed |
+| ![Domain Controller Setup](../screenshots/dc_setup.PNG) | Server Manager showing AD DS role installed |
 | ![Active Directory Users](../screenshots/ad_users.png) | Active Directory Users and Computers with OUs |
 | ![DNS Manager](../screenshots/dns_manager.png) | DNS Manager showing company.local zones |
 | ![Domain Login](../screenshots/domain_login.png) | Successful domain login |
