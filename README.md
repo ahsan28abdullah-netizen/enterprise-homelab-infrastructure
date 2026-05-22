@@ -142,3 +142,72 @@ Example IP Assignments:
       - IIS website
       - File sharing
       - SQL connectivity
+   
+
+  📸 Screenshots
+
+All important steps are documented with screenshots:
+
+Domain Controller setup
+Active Directory configuration
+IIS hosted website
+SQL Server database creation
+Linux monitoring output
+VM network configuration
+
+
+📁 Repository Structure
+Home-Lab-Project/
+│
+├── README.md
+├── screenshots/
+│   ├── dc_setup.png
+│   ├── ad_users.png
+│   ├── iis_website.png
+│   ├── sql_database.png
+│   ├── linux_monitoring.png
+│
+├── docs/
+│   ├── domain_setup.md
+│   ├── iis_setup.md
+│   ├── sql_setup.md
+│
+└── network_diagram.png
+
+🚀 Key Skills Demonstrated
+Windows Server Administration
+Active Directory Management
+Web Server Hosting (IIS)
+Database Administration (SQL Server)
+Linux System Monitoring
+Virtualization (VMware)
+Networking & DNS Configuration
+Backup & Restore Operations
+
+📈 Outcome
+
+This project simulates a real enterprise IT environment and demonstrates hands-on experience in system administration, infrastructure setup, and server management.
+
+📌 Future Improvements
+Add centralized logging (SIEM basics)
+Implement automated backups
+Add firewall and security hardening
+Deploy monitoring dashboard (Prometheus/Grafana)
+Introduce PowerShell automation scripts
+
+👨‍💻 Author
+
+Ahsan Abdullah
+IT Support / System Administration Learning Path
+
+
+---
+
+If you want next upgrade, I can also create:
+
+✔ :contentReference[oaicite:0]{index=0}  
+✔ :contentReference[oaicite:1]{index=1}  
+✔ :contentReference[oaicite:2]{index=2}  
+✔ Or :contentReference[oaicite:3]{index=3}  
+
+Just tell me 👍
