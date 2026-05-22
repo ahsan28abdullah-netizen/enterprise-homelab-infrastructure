@@ -157,6 +157,7 @@ VM network configuration
 
 
 📁 Repository Structure
+
 Home-Lab-Project/
 │
 ├── README.md
