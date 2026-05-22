@@ -1,5 +1,3 @@
-# enterprise-homelab-infrastructure
-
 # 🏠 Home Lab Infrastructure Portfolio
 
 ## 📌 Project Overview
